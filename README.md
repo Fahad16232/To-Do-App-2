@@ -26,7 +26,7 @@ To Do App 2 is a simple and intuitive to-do list application developed in Swift 
 
 **Mark Task as Completed:** Tap the checkbox next to a task to mark it as completed.
 
-**Share Task: ** Tap the share button next to a task to share it with others.
+**Share Task:** Tap the share button next to a task to share it with others.
 
 **Delete Task:** Swipe left on a task to reveal the delete option, then tap **"Delete"** to remove the task.
 
